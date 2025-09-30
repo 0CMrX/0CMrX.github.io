@@ -43,11 +43,31 @@ ninja.data = [{
           description: "2025-07-07",
           section: "Projects",handler: () => {
               window.location.href = "/projects/250708.html";
+            },},{id: "projects-arc-de-triomphe-de-l-39-étoile",
+          title: 'Arc de triomphe de l&amp;#39;Étoile',
+          description: "2025-07-11",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/250711.html";
             },},{id: "projects-stars-in-spiez",
           title: 'Stars in Spiez',
           description: "2025-07-15",
           section: "Projects",handler: () => {
               window.location.href = "/projects/250715.html";
+            },},{id: "projects-undine-rising-from-the-waters",
+          title: 'Undine Rising from the Waters',
+          description: "2025-09-15",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/25091501.html";
+            },},{id: "projects-high-museum",
+          title: 'High Museum',
+          description: "2025-09-15",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/25091502.html";
+            },},{id: "projects-nightfall",
+          title: 'Nightfall',
+          description: "2025-09-29",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/250929.html";
             },},{
         id: 'social-email',
         title: 'email',
