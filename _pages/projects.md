@@ -2,7 +2,7 @@
 layout: page
 title: Photos
 permalink: /photos/
-description: I like photography!
+description: I love photography!
 nav: true
 nav_order: 3
 display_categories: [Museum, Random, Travel]
