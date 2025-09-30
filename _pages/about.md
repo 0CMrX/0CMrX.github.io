@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: In chinese, 庞妍昕
 
 profile:
   align: right
@@ -20,11 +20,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Ph.D. student in [School of Cybersecurity and Privacy](https://scp.cc.gatech.edu/) at Georgia Institute of Technology, advised by [Prof. Vassilis Zikas](https://faculty.cc.gatech.edu/~vzikas/) and [Prof. Vladimir Kolesnikov](https://faculty.cc.gatech.edu/~vlad/).
