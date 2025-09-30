@@ -173,6 +173,9 @@ exclude:
   - _pages/news.md
   - _pages/repositories.md
   - _pages/projects.md
+  - _pages/dropdown.md
+  - _pages/teaching.md
+  - _pages/profiles.md
   - _projects
   - _includes/repository/
   - bin/
