@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Photos
+permalink: /photos/
+description: I like photography!
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Museum, Random, Travel]
 horizontal: false
 ---
 
