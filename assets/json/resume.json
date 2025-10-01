@@ -30,6 +30,24 @@
       "studyType": "Bachelor",
       "startDate": "2021-08",
       "endDate": "2025-06"
+    },
+    {
+      "institution": "National University of Singapore",
+      "location": "Singapore",
+      "url": "https://nus.edu.sg/",
+      "area": "Computer Science",
+      "studyType": "Internship",
+      "startDate": "2024-08",
+      "endDate": "2025-04"
+    },
+    {
+      "institution": "Yale University",
+      "location": "New Haven, United States",
+      "url": "https://www.yale.edu/",
+      "area": "Computer Science",
+      "studyType": "Internship",
+      "startDate": "2024-02",
+      "endDate": "2024-09"
     }
   ],
   "awards": [
@@ -44,6 +62,45 @@
       "date": "2025-06",
       "awarder": "Institute for Interdisciplinary Information Sciences, Tsinghua University",
       "url": "https://iiis.tsinghua.edu.cn/info/1018/4718.htm"
+    },
+    {
+      "title": "Merit Prize of Yao Award",
+      "date": "2024-08",
+      "awarder": "Institute for Interdisciplinary Information Sciences, Tsinghua University",
+      "url": "https://iiis.tsinghua.edu.cn/en/Yao_Class/About_Yao_Class.htm"
+    },
+    {
+      "title": "Honorable Mention in The Mathematical Contest in Modeling (MCM)",
+      "date": "2024-02",
+      "awarder": "Consortium for Mathematics and its Applications (COMAP)",
+      "url": "https://www.comap.com/contests/mcm-icm"
+    },
+    {
+      "title": "Honorable Mention in The Mathematical Contest in Modeling (MCM)",
+      "date": "2023-05",
+      "awarder": "Consortium for Mathematics and its Applications (COMAP)",
+      "url": "https://www.comap.com/contests/mcm-icm"
+    },
+    {
+      "title": "First Prize of Beijing in the Contemporary Undergraduate Mathematical Contest in Modeling",
+      "date": "2022-11",
+      "awarder": "China Society for Industrial and Applied Mathematics (CSIAM)",
+      "url": "https://www.mcm.edu.cn/"
+    },
+    {
+      "title": "Academic Excellent Scholarship",
+      "date": "2024",
+      "awarder": "Friends of Tsinghua-Huawei Scholar Third Class Scholarship"
+    },
+    {
+      "title": "Technology Innovation Excellence Scholarship",
+      "date": "2023",
+      "awarder": "Tsinghua University"
+    },
+    {
+      "title": "Tsinghua Xuetang Talents Program Scholarship",
+      "date": "2022",
+      "awarder": "Tsinghua University"
     }
   ],
   "publications": [
