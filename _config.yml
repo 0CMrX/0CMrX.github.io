@@ -132,6 +132,7 @@ exclude:
   - _news/announcement_long.md
   - _news/announcement_short.md
   - _pages/books.md
+  - _books
   - _pages/news.md
   - _pages/repositories.md
   - _pages/dropdown.md
