@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>S0955G Coda</p>
     <p>Atlanta, Georgia 30308</p>
-    <p>ypang60[AT]gatech[DOT]edu</p>
+    <p>yanxin[AT]gatech[DOT]edu</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
