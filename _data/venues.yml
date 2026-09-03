@@ -2,6 +2,10 @@
   url: https://www.usenix.org/
   color: "#3C835F"
 
+"ePrint":
+  url: https://eprint.iacr.org/
+  color: "172A7E"
+
 "PhysRev":
   url: https://journals.aps.org/
 
